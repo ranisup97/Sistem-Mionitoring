@@ -1,0 +1,60 @@
+http://localhost/ldetelkom/index.php/admin
+
+1. cycle 1 
+link ke cognitium
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+
+kolom di tbl peserta nik,nama,jabatan 
+peserta bisa di ceklis mana yg udah gerjain resume mana yg belum
+bisa import dan export file boleh csv/excel
+
+
+cycle 2 
+link ke digital learning
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+
+kolom di tbl peserta nik,nama,jabatan, nilai post test(yg lulus  post test lebih dari  70 = lulus, kurang dari 70 = tidak lulus) 
+bisa import dan export file boleh csv/excel
+
+
+cycle 3
+
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+
+kolom di tbl peserta nik,nama,jabatan, nilai prestest, nilai post test
+bisa import dan export file boleh csv/excel
+
+
+cycle 4 (tahap sharing blm fix)
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+
+kolomnya nik , nama ,judul ALP, tgl mulai, tgl selesai
+
+bisa import dan export file boleh csv/excel
+
+cycle 5 tahap sharing blm fix)
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+
+kolomnya nik , nama ,judul ALP, tgl mulai, tgl selesai, laporan(ceklis yg udah bikin laporan)
+bisa import dan export file boleh csv/excel
+
+cycle 6 (FIX)
+link ke kampiun
+buat tabel perbulan
+dalam satu bulan ada 5-30 pelatihan
+dalam setiap pelatihan ada +-20 peserta
+kolomnya nik , nama ,judul ALP, tgl mulai, tgl selesai
+bisa import dan export file boleh csv/excel
+
+
+bikin login admin ya fal heheehhe
